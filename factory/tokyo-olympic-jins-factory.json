@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-jins-factory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61ec9b02-1b09-4ee3-aa2a-244b8896d477",
+		"tenantId": "704f440d-68aa-42b9-9bd2-124cf6312d76"
+	}
+}
