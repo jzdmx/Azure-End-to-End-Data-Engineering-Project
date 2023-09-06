@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/jzdmx/Azure-End-to-End-Data-Engineering-Project/blob/main/dataset/Athletes.xlsx",
+			"url": "https://raw.githubusercontent.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/main/data/Athletes.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
